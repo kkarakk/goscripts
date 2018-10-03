@@ -13,7 +13,7 @@ func main() {
 
 func MakeRequest() {
 	// message := map[string]interface{}{
-	// 	"user":     "Yogesh2",
+	// 	"user":     "Yalla2",
 	// 	"key":      "1c23cfa983XX",
 	// 	"mobile":   +916263532853,
 	// 	"message":  "++test",
